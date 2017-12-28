@@ -1,0 +1,28 @@
+{
+    "author": "al.whatmough@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "als-test2",
+    "pebble": {
+        "displayName": "als-test2",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "7beb1c16-eddb-46cd-806f-ea4ccbf8f86b",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
